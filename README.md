@@ -18,10 +18,14 @@ hangman style game with graphics that shows images upon failure
 ## programingProject2
 same thing but wordle
 ### GUI (Start screen)
-e
+![Screenshot 2022-03-30 201830](https://user-images.githubusercontent.com/89047475/160963057-bf692919-c40b-4d83-b45e-6371df49c6e3.png)
+
 ### GUI (Gameplay)
-ee
+![Screenshot 2022-03-30 202221](https://user-images.githubusercontent.com/89047475/160963384-e361e698-ee62-46aa-a263-ffea086307fa.png)
+
+
 ### GUI (Endscreen)
-eee
+![Screenshot 2022-03-30 202205](https://user-images.githubusercontent.com/89047475/160963388-30f8663d-da71-4656-a1b1-d54f24a0b279.png)
 ### Class Diagram
-eeee
+![Screenshot 2022-03-30 202354](https://user-images.githubusercontent.com/89047475/160963553-74ed1e0a-2b73-4710-ae9e-b2baed817653.png)
+
