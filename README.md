@@ -25,7 +25,8 @@ This is our take on a wordle
 
 
 ### GUI (Endscreen)
-![Screenshot 2022-03-30 202205](https://user-images.githubusercontent.com/89047475/160963388-30f8663d-da71-4656-a1b1-d54f24a0b279.png)
+![Screenshot 2022-03-30 203600](https://user-images.githubusercontent.com/89047475/160964847-c0281203-bf2c-4c3b-ae61-0f3c53286773.png)
+
 ### Class Diagram
 ![Screenshot 2022-03-30 202354](https://user-images.githubusercontent.com/89047475/160963553-74ed1e0a-2b73-4710-ae9e-b2baed817653.png)
 
