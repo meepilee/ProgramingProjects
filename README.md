@@ -16,7 +16,7 @@ hangman style game with graphics that shows images upon failure
 <img width="557" alt="class" src="https://user-images.githubusercontent.com/89152916/160856378-958d7dac-0428-4ac4-b897-5069223e5dec.png">
 
 ## programingProject2
-same thing but wordle
+This is our take on a wordle 
 ### GUI (Start screen)
 ![Screenshot 2022-03-30 201830](https://user-images.githubusercontent.com/89047475/160963057-bf692919-c40b-4d83-b45e-6371df49c6e3.png)
 
