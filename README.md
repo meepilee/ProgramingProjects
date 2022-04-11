@@ -25,6 +25,7 @@ This is our take on a wordle
 
 
 ### GUI (Endscreen)
+<img width="364" alt="WYFSI" src="https://user-images.githubusercontent.com/89152916/162756939-a1f143d6-e645-4818-b6ca-f2585d23cdcf.png">
 
 
 ### Class Diagram
