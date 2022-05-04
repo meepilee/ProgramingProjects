@@ -1,7 +1,8 @@
-# ProgramingProjects (this is the one we chose)
+# ProgramingProjects 
 2 programing projects for consideration
 (extremely incomplete)
-## ProgramingProject1 hangmanclone
+By Brannon Lai and Everett Syroid
+## ProgramingProject1 hangmanclone (this is the one we chose)
 hangman style game with graphics that shows images upon failure
 ### GUI (Start screen)
 <img width="467" alt="727" src="https://user-images.githubusercontent.com/89152916/160852370-f3ff875a-6e6b-408d-a64e-493492b905f8.png">
