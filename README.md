@@ -1,4 +1,4 @@
-# ProgramingProjects
+# ProgramingProjects (this is the one we chose)
 2 programing projects for consideration
 (extremely incomplete)
 ## ProgramingProject1 hangmanclone
