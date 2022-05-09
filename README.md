@@ -2,6 +2,13 @@
 2 programing projects for consideration
 
 By Brannon Lai and Everett Syroid
+## Programming Project: "Hardman"
+Hangman-style game that switches who controls the game based on lives left
+### (Start Screen)
+### (Gameplay)
+### (Endscreen)
+### (Class Diagram)
+
 ## (old)ProgramingProject1 hangmanclone (this is the one we chose)
 hangman style game with graphics that shows images upon failure 
 ### GUI (Start screen)
