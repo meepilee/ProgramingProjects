@@ -1,6 +1,6 @@
 # ProgramingProjects 
 2 programing projects for consideration
-(extremely incomplete)
+
 By Brannon Lai and Everett Syroid
 ## ProgramingProject1 hangmanclone (this is the one we chose)
 hangman style game with graphics that shows images upon failure
